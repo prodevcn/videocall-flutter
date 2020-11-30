@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:path_provider_macos] G:\flutterVideoCallApp\build\path_provider_macos\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] G:\flutterVideoCallApp\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] G:\flutterVideoCallApp\build\shared_preferences_web\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] G:\flutterVideoCallApp\build\shared_preferences_macos\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] G:\flutterVideoCallApp\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webrtc] G:\flutterVideoCallApp\build\flutter_webrtc\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\5ada1500bc1cc3d7f354d48db25c77c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1321bb0a025864207b844555f668156c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\835db96090367e7512a2d6ba7777e436\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9d7c42d7d8a0608c78fcdbd8e45ab7ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f3924aea306c4e31323ad03fcf40f373\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\38d0fd29bb3a34762580fd5b69618246\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3d30cacdabb6fa7850fa5e5f9a15a4e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\96a9cde1083c9db6681059a62c52e4c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e911718ec9d4bb0ee7cb89bbd0f0bda6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0cd8a89017c5cebe582d23947b75a79f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a977a0302834e26c4c4a33f7b26f9506\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3871c10584e7762543986d4a91535476\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\356e19a62a56a6707da316afe911f309\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c3e1afbe8569049eb18cb96792a50020\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d36eb648fc5147eae1037edd7ae5125a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab77f2cce609b93d5239af7abd0cce39\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\61e054eebe71adad99341f5d65f20203\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e3529977e597b36d1f849c5d57d43160\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\70f8f2d2d9998d18f98d00d65a7beda6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cb8ee87c2cedba31a387a12d18688d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\addb01da025b79880d0c508efad61521\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\959239a521aa06ebcac59f8093bc8b78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f7d9c6ea6ca2cead19db26ddb2995ee2\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webrtc:google-webrtc:1.0.28262] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.28262.aar\d45ae143d72ff2a94ec31d7ace9b6834\AndroidManifest.xml:11:1-14:12
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:2:5-48
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-feature#android.hardware.camera
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:10:19-67
+uses-permission#android.permission.CAMERA
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:17:22-77
+application
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:24:5-47:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3871c10584e7762543986d4a91535476\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3871c10584e7762543986d4a91535476\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e3529977e597b36d1f849c5d57d43160\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e3529977e597b36d1f849c5d57d43160\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3871c10584e7762543986d4a91535476\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:26:9-44
+	android:icon
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:25:9-57
+activity#com.cloudwebrtc.flutterwebrtcdemo.MainActivity
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:28:9-46:20
+	android:launchMode
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:30:13-43
+	android:hardwareAccelerated
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:33:13-47
+	android:windowSoftInputMode
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:34:13-55
+	android:configChanges
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:32:13-137
+	android:theme
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:29:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:39:13-41:40
+	android:value
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:41:17-37
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:40:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml:44:27-74
+uses-sdk
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:path_provider_macos] G:\flutterVideoCallApp\build\path_provider_macos\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_macos] G:\flutterVideoCallApp\build\path_provider_macos\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] G:\flutterVideoCallApp\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] G:\flutterVideoCallApp\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] G:\flutterVideoCallApp\build\shared_preferences_web\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] G:\flutterVideoCallApp\build\shared_preferences_web\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] G:\flutterVideoCallApp\build\shared_preferences_macos\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] G:\flutterVideoCallApp\build\shared_preferences_macos\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] G:\flutterVideoCallApp\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] G:\flutterVideoCallApp\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] G:\flutterVideoCallApp\build\flutter_webrtc\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] G:\flutterVideoCallApp\build\flutter_webrtc\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\5ada1500bc1cc3d7f354d48db25c77c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\5ada1500bc1cc3d7f354d48db25c77c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1321bb0a025864207b844555f668156c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1321bb0a025864207b844555f668156c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\835db96090367e7512a2d6ba7777e436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\835db96090367e7512a2d6ba7777e436\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9d7c42d7d8a0608c78fcdbd8e45ab7ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\9d7c42d7d8a0608c78fcdbd8e45ab7ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f3924aea306c4e31323ad03fcf40f373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f3924aea306c4e31323ad03fcf40f373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\38d0fd29bb3a34762580fd5b69618246\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\38d0fd29bb3a34762580fd5b69618246\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3d30cacdabb6fa7850fa5e5f9a15a4e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3d30cacdabb6fa7850fa5e5f9a15a4e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\96a9cde1083c9db6681059a62c52e4c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\96a9cde1083c9db6681059a62c52e4c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e911718ec9d4bb0ee7cb89bbd0f0bda6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e911718ec9d4bb0ee7cb89bbd0f0bda6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0cd8a89017c5cebe582d23947b75a79f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0cd8a89017c5cebe582d23947b75a79f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a977a0302834e26c4c4a33f7b26f9506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a977a0302834e26c4c4a33f7b26f9506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3871c10584e7762543986d4a91535476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3871c10584e7762543986d4a91535476\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\356e19a62a56a6707da316afe911f309\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\356e19a62a56a6707da316afe911f309\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c3e1afbe8569049eb18cb96792a50020\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c3e1afbe8569049eb18cb96792a50020\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d36eb648fc5147eae1037edd7ae5125a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d36eb648fc5147eae1037edd7ae5125a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab77f2cce609b93d5239af7abd0cce39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab77f2cce609b93d5239af7abd0cce39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\61e054eebe71adad99341f5d65f20203\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\61e054eebe71adad99341f5d65f20203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e3529977e597b36d1f849c5d57d43160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e3529977e597b36d1f849c5d57d43160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\70f8f2d2d9998d18f98d00d65a7beda6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\70f8f2d2d9998d18f98d00d65a7beda6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cb8ee87c2cedba31a387a12d18688d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cb8ee87c2cedba31a387a12d18688d9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\addb01da025b79880d0c508efad61521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\addb01da025b79880d0c508efad61521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\959239a521aa06ebcac59f8093bc8b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\959239a521aa06ebcac59f8093bc8b78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f7d9c6ea6ca2cead19db26ddb2995ee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f7d9c6ea6ca2cead19db26ddb2995ee2\AndroidManifest.xml:20:5-44
+MERGED from [org.webrtc:google-webrtc:1.0.28262] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.28262.aar\d45ae143d72ff2a94ec31d7ace9b6834\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.28262] C:\Users\wonch\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.28262.aar\d45ae143d72ff2a94ec31d7ace9b6834\AndroidManifest.xml:13:3-72
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\flutterVideoCallApp\android\app\src\main\AndroidManifest.xml

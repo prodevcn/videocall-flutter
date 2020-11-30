@@ -1,0 +1,4 @@
+#Wed Jan 29 18:01:28 MSK 2020
+base.0=G\:\\flutterVideoCallApp\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
